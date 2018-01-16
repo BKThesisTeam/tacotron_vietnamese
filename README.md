@@ -4,7 +4,7 @@ An implementation of Tacotron speech synthesis in TensorFlow.
 
 # Note
 
-This is a fork repo with some modification for Vietnamese training dataset
+This is a fork repo with some modification for Vietnamese training dataset <br/>
 Original Repo: https://github.com/keithito/tacotron
 
 ### Audio Samples
